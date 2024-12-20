@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection Framework/Collection Framework.iml" filepath="$PROJECT_DIR$/Collection Framework/Collection Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda and Stream APIs/Lambda and Stream APIs.iml" filepath="$PROJECT_DIR$/Lambda and Stream APIs/Lambda and Stream APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/OOPS.iml" filepath="$PROJECT_DIR$/oops/OOPS.iml" />
+    </modules>
+  </component>
+</project>
